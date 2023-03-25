@@ -2,7 +2,7 @@
 
 Este projeto consiste em um jogo de pedra, papel e tesoura, que utiliza inteligência artificial para classificar as imagens dos gestos de mão do usuário em pedra, papel ou tesoura. O jogo utiliza a webcam do usuário para capturar as imagens e, em seguida, o modelo de IA classifica qual movimento foi feito pelo usuário. Em seguida, o computador escolhe aleatoriamente um movimento e é determinado quem venceu o jogo. 
 
-O projeto é implementado em Python, utilizando a biblioteca TensorFlow para o treinamento do modelo de IA. Além disso, é utilizado o Streamlit para criar a interface web para rodar o modelo. O objetivo final do projeto é colocá-lo em produção em uma plataforma em nuvem, como o Heroku, para que possa ser acessado por qualquer pessoa.
+O projeto é implementado em Python, utilizando a biblioteca TensorFlow para o treinamento do modelo de IA. Além disso, é utilizado o Streamlit para criar a interface web para rodar o modelo. O objetivo final do projeto é deixar em condições de colocá-lo em produção em uma plataforma em nuvem, como o AWS, para que possa ser acessado por qualquer pessoa.
 
 ## Pré-requisitos
 
