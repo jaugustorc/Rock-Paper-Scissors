@@ -20,7 +20,7 @@ As dependências podem ser instaladas utilizando o gerenciador de pacotes pip.
 Para rodar o jogo, basta seguir os seguintes passos:
 
 1. Clone este repositório para o seu computador.
-2. Instale as dependências utilizando o comando `pip install -r requirements.txt`
+2. Instale as dependências utilizando o comando: `pip install -r requirements.txt`
 3. Rode o jogo utilizando o comando `streamlit run game.py`
 4. Abra o navegador e acesse o endereço `http://localhost:8501`
 
